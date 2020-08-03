@@ -40,7 +40,7 @@ module.exports = {
             text: '持续集成', items: [
                 { text: 'Jenkins', link: '/' },
                 { text: 'Travis', link: '/' },
-                { text: 'shell', link: '/' },
+                { text: 'shell', link: '/cicd/shell/' },
             ]
         },
         {
