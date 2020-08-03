@@ -28,20 +28,5 @@ module.exports = {
                 { text: 'Quartz', link: '/' },
             ]
         },
-        {
-            text: '多线程高并发', items: []
-        },
-        {
-            text: 'JVM虚拟机', items: []
-        },
-        {
-            text: '微服务', items: []
-        },
-        {
-            text: '性能优化', items: []
-        },
-        {
-            text: '分布式', items: []
-        },
     ]
 };
