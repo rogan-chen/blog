@@ -1,5 +1,5 @@
 module.exports = {
-    text: '阅读', items: [
+    text: '阅读笔记', items: [
         {
             text: '计算机基础', items: [
                 { text: '《大话数据结构》', link: '/' },

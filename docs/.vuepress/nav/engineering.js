@@ -26,7 +26,9 @@ module.exports = {
             ]
         },
         {
-            text: '监控系统', items: []
+            text: '监控系统', items: [
+                { text: 'sentry', link: '/' },
+            ]
         },
         {
             text: '依赖管理', items: [
@@ -35,7 +37,11 @@ module.exports = {
             ]
         },
         {
-            text: '持续集成', items: []
+            text: '持续集成', items: [
+                { text: 'Jenkins', link: '/' },
+                { text: 'Travis', link: '/' },
+                { text: 'shell', link: '/' },
+            ]
         },
         {
             text: '部署运营', items: [

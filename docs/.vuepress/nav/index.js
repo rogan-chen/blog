@@ -1,11 +1,11 @@
 module.exports = [
+    require('./program-basic'),
     require('./iOS'),
-    require('./JS-senior'),
-    require('./React'),
-    require('./Vue'),
-    require('./Node'),
+    require('./front-end'),
+    require('./node'),
     require('./database'),
     require('./engineering'),
+    require('./web-safe'),
     require('./read-notes'),
     { text: 'GitHub', link: 'https://github.com/rogan-chen' }
 ];
