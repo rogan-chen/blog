@@ -1,6 +1,6 @@
 module.exports = [
     {
-        title: 'iOS',
+        title: 'shell',
         collapsable: true,
         children: [
             '/cicd/shell/build-ios/',

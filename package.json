@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rogan-chen/blog-vuepress#readme",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.2",
+    "vuepress-theme-reco": "^1.5.5"
   }
 }
