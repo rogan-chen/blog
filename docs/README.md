@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Rogan's blog
-tagline: 终身学习~~
+tagline: 「全栈修仙之路」~
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
