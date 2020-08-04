@@ -16,7 +16,8 @@ module.exports = {
         },
         {
             text: '构建工具', items: [
-                { text: 'webpack', link: '/' },
+                { text: 'webpack', link: '/build/webpack/' },
+                { text: 'vite', link: '/build/vite/' },
             ]
         },
         {
