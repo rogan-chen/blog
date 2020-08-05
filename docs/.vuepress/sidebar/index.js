@@ -1,4 +1,7 @@
 module.exports = {
+    // 算法
+    '/algorithm/': require('./algorithm'),
+
     // JavaSE
     '/javase/': require('./javase'),
 
