@@ -1,5 +1,5 @@
 ---
-title: iOS打包测试
+title: 使用shell打包iOS应用
 date: 2020-02-03
 sidebar: 'auto'
 categories:

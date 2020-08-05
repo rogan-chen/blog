@@ -1,5 +1,5 @@
 {
-  "name": "blog-vuepress",
+  "name": "blog",
   "version": "1.0.0",
   "description": "写博客的地方",
   "main": "index.js",
@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rogan-chen/blog-vuepress.git"
+    "url": "git+https://github.com/rogan-chen/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rogan-chen/blog-vuepress/issues"
+    "url": "https://github.com/rogan-chen/blog/issues"
   },
-  "homepage": "https://github.com/rogan-chen/blog-vuepress#readme",
+  "homepage": "https://github.com/rogan-chen/blog#readme",
   "devDependencies": {
     "vuepress": "^1.5.2",
     "vuepress-theme-reco": "^1.5.5"
