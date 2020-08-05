@@ -49,6 +49,7 @@ module.exports = {
                 { text: 'Nginx', link: '/' },
                 { text: 'Tomcat', link: '/' },
                 { text: 'Docker', link: '/' },
+                { text: 'Kubernetes', link: '/' },
             ]
         },
     ]

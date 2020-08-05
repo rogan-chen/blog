@@ -3,7 +3,7 @@ module.exports = [
     // require('./iOS'),
     require('./front-end'),
     // require('./node'),
-    // require('./java'),
+    require('./java'),
     // require('./database'),
     require('./engineering'),
     // require('./web-safe'),
