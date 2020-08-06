@@ -4,7 +4,7 @@ module.exports = [
     require('./front-end'),
     // require('./node'),
     require('./java'),
-    // require('./database'),
+    require('./database'),
     require('./engineering'),
     // require('./web-safe'),
     require('./read-notes'),

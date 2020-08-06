@@ -1,8 +1,8 @@
 module.exports = {
     text: '数据库',
     items: [
-        { text: 'MySQL', link: '/' },
-        { text: 'Redis', link: '/' },
-        { text: 'MongoDB', link: '/' },
+        { text: 'MySQL', link: '/mysql/' },
+        { text: 'Redis', link: '/redis/' },
+        { text: 'MongoDB', link: '/mongodb/' },
     ],
 };
