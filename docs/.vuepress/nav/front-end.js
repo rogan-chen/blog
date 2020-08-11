@@ -7,6 +7,6 @@ module.exports = {
         { text: 'Vue', link: '/vue/' },
         { text: '优化', link: '/front-end-optimize/' },
         { text: '跨平台', link: '/cross-platform/' },
-        { text: '前沿技术', link: '/front-end-High/' },
+        { text: '杂七杂八', link: '/front-end-High/' },
     ],
 };

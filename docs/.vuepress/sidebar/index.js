@@ -12,10 +12,14 @@ module.exports = {
     '/cross-platform/': require('./front-end/cross-platform'), // 跨平台
     '/front-end-High/': require('./front-end/front-end-High'), // 前沿技术
 
+    // 后端
+    '/node/': require('./back-end/node'), // Node.js
+    '/java/': require('./back-end/java'), // Java
+
     // 数据库
-    '/mysql/': require('./mysql'), // MySQL
-    '/redis/': require('./redis'), // Redis
-    '/mongodb/': require('./mongodb'), // MongoDB
+    '/mysql/': require('./database/mysql'), // MySQL
+    '/redis/': require('./database/redis'), // Redis
+    '/mongodb/': require('./database/mongodb'), // MongoDB
 
     // 软件工程化
     '/build/': require('./build-tools'), // 构建工具

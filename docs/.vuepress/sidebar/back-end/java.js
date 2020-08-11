@@ -1,16 +1,21 @@
 module.exports = [
     {
-        title: 'Mock',
+        title: 'JavaSE',
         collapsable: true,
         children: [],
     },
     {
-        title: 'PWA',
+        title: 'JVM',
         collapsable: true,
         children: [],
     },
     {
-        title: '微前端',
+        title: '微服务',
+        collapsable: true,
+        children: [],
+    },
+    {
+        title: '多线程高并发',
         collapsable: true,
         children: [],
     },
