@@ -1,9 +1,9 @@
 module.exports = [
     {
-        title: '面向对象',
+        title: '基础概念',
         collapsable: true,
         children: [
-            '/javase/oop/summary',
+            '/mysql/basic/summary',
         ],
     },
 ];
