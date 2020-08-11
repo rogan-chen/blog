@@ -1,5 +1,5 @@
 module.exports = {
-    text: '软件工程化', items: [
+    text: '工程化', items: [
         { text: '代码托管与版本管理', link: '/' },
         { text: '调试工具', link: '/' },
         { text: '构建工具', link: '/' },
