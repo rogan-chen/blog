@@ -22,6 +22,12 @@ module.exports = {
     '/mongodb/': require('./database/mongodb'), // MongoDB
 
     // 软件工程化
-    '/build/': require('./build-tools'), // 构建工具
-    '/cicd/': require('./cicd'), // 持续集成
+    '/build-tools/': require('./engineering/build-tools'), // 构建工具
+    '/cicd/': require('./engineering/cicd'), // 持续集成
+    '/debug/': require('./engineering/debug'), // 调试工具
+    '/dependency/': require('./engineering/dependency'), // 依赖管理
+    '/deploy/': require('./engineering/deploy'), // 部署运维
+    '/deposit/': require('./engineering/deposit'), // 代码托管与版本管理
+    '/monitor/': require('./engineering/monitor'), // 监控体系
+    '/standard/': require('./engineering/standard'), // 规范化
 };
