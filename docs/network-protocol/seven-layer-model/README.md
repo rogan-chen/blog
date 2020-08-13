@@ -65,9 +65,16 @@ publish: true
 - 是由网络层的IP协议和传输层的TCP协议组成，是一个很大的协议集合
 - 物理层和数据链路层没有定义任何特定协议，支持所有的标准和专用的协议
 
+![网络协议](/program-basic/protocal.png)
 
-
-
+| 层级   | 名称 | 含义                                                                                                                                                                                     |
+| :----- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 应用层 | HTTP | 超文本传输协议（HTTP，HyperText Transfer Protocol)是互联网上应用最为广泛的一种网络协议                                                                                                   |
+| 应用层 | DNS  | 域名系统（英文：Domain Name System，缩写：DNS）是互联网的一项服务。它作为将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。                                          |
+| 传输层 | TCP  | TCP（Transmission Control Protocol 传输控制协议）是一种面向连接的、可靠的、基于字节流的传输层通信协议                                                                                    |
+| 传输层 | UDP  | UDP 是User Datagram Protocol的简称， 中文名是用户数据报协议，是OSI（Open System Interconnection，开放式系统互联） 参考模型中一种无连接的传输层协议，提供面向事务的简单不可靠信息传送服务 |
+| 网络层 | IP   | 互联网协议地址（英语：Internet Protocol Address，又译为网际协议地址），缩写为IP地址（英语：IP Address），是分配给用户上网使用的网际协议（英语：Internet Protocol, IP）的设备的数字标签   |
+| 网络层 | ARP  | 地址解析协议，即ARP（Address Resolution Protocol），是根据IP地址获取物理地址的一个TCP/IP协议                                                                                             |
 
 
 
