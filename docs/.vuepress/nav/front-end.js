@@ -5,8 +5,8 @@ module.exports = {
         { text: 'JavaScript', link: '/javascript/' },
         { text: 'React', link: '/react/' },
         { text: 'Vue', link: '/vue/' },
-        { text: '优化', link: '/front-end-optimize/' },
-        { text: '跨平台', link: '/cross-platform/' },
-        { text: '杂七杂八', link: '/front-end-High/' },
+        { text: '前端优化', link: '/front-end-optimize/' },
+        { text: '跨平台开发', link: '/cross-platform/' },
+        { text: '其他', link: '/front-end-High/' },
     ],
 };

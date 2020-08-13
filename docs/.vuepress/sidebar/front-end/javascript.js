@@ -22,7 +22,9 @@ module.exports = [
     {
         title: 'TypeScript',
         collapsable: true,
-        children: [],
+        children: [
+            '/javascript/typescript/'
+        ],
     },
     {
         title: '正则表达式',

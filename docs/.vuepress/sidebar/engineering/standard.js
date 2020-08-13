@@ -1,11 +1,11 @@
 module.exports = [
     {
-        title: 'ESLint',
+        title: '代码规范化',
         collapsable: true,
         children: [],
     },
     {
-        title: 'Husky',
+        title: 'commit规范化',
         collapsable: true,
         children: [],
     },
