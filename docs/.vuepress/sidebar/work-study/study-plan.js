@@ -5,6 +5,7 @@ module.exports = [
         children: [
             '/study-plan/front-end/zhufeng-web',
             '/study-plan/front-end/zhufeng-architect',
+            '/study-plan/front-end/zhufeng-open',
         ],
     },
     {
