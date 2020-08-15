@@ -1,8 +1,10 @@
 module.exports = [
     {
-        title: 'Vue源码',
+        title: 'Vue.js',
         collapsable: true,
-        children: [],
+        children: [
+            '/vue/vue/summary',
+        ],
     },
     {
         title: '路由',
