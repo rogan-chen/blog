@@ -30,4 +30,7 @@ module.exports = {
     '/deposit/': require('./engineering/deposit'), // 代码托管与版本管理
     '/monitor/': require('./engineering/monitor'), // 监控体系
     '/standard/': require('./engineering/standard'), // 规范化
+
+    // 工作学习
+    '/study-plan/': require('./work-study/study-plan'), // 学习计划
 };

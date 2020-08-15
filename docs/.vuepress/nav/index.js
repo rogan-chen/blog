@@ -4,7 +4,7 @@ module.exports = [
     require('./back-end'),
     require('./database'),
     require('./engineering'),
-    require('./read-notes'),
+    require('./work-study'),
     { text: '时间轴', link: '/timeline/' },
     { text: 'GitHub', link: 'https://github.com/rogan-chen' }
 ];
