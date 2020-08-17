@@ -33,7 +33,7 @@ publish: true
 - <input type="checkbox"></input> BAT/TMD经典面试题深入剖析
 - <input type="checkbox"></input> This的5大场景及实战应用
 - <input type="checkbox"></input> call/apply/bind/instance/Object.create等源码剖析
-- <input type="checkbox"></input> JS中4大集成方案的深入解析
+- <input type="checkbox"></input> JS中4大继承方案的深入解析
 - <input type="checkbox"></input> jQuery源码解读「数据类型检测的封装及底层核心」
 - <input type="checkbox"></input> Loadash源码解读「数组/对象的深拷贝和深比较」
 
@@ -68,7 +68,7 @@ publish: true
 - <input type="checkbox"></input> 箭头函数和普通函数的区别
 - <input type="checkbox"></input> class类和类的装饰器（Dcorator）
 - <input type="checkbox"></input> Set/Map/WeakSet/WeakMap
-- <input type="checkbox"></input> Promise和Promise A+规范元
+- <input type="checkbox"></input> Promise和Promise A+规范
 - <input type="checkbox"></input> async/await及内部实现原理
 - <input type="checkbox"></input> Generator生成器和Interator迭代器
 - <input type="checkbox"></input> 模块化发展历程：AMD、CMD、Commonjs、ES6 Mdule

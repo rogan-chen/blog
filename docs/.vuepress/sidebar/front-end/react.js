@@ -1,8 +1,10 @@
 module.exports = [
     {
-        title: 'React源码',
+        title: 'React.js',
         collapsable: true,
-        children: [],
+        children: [
+            '/react/react/pot'
+        ],
     },
     {
         title: '路由',
