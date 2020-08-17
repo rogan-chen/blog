@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/blog/',
     title: '海狗的博客',
     description: '海狗写博客的地方~',
     head: [
