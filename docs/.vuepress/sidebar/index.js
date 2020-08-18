@@ -32,5 +32,6 @@ module.exports = {
     '/standard/': require('./engineering/standard'), // 规范化
 
     // 工作学习
+    '/read-notes/': require('./work-study/read-notes'), // 阅读
     '/study-plan/': require('./work-study/study-plan'), // 学习计划
 };

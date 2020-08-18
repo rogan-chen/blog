@@ -7,6 +7,8 @@ module.exports = [
     {
         title: '工作效率',
         collapsable: true,
-        children: [],
+        children: [
+            '/read-notes/efficiency/如何阅读一本书'
+        ],
     },
 ];
