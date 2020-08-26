@@ -15,11 +15,9 @@ module.exports = {
     // 后端
     '/node/': require('./back-end/node'), // Node.js
     '/java/': require('./back-end/java'), // Java
-
-    // 数据库
-    '/mysql/': require('./database/mysql'), // MySQL
-    '/redis/': require('./database/redis'), // Redis
-    '/mongodb/': require('./database/mongodb'), // MongoDB
+    '/mysql/': require('./back-end/mysql'), // MySQL
+    '/redis/': require('./back-end/redis'), // Redis
+    '/mongodb/': require('./back-end/mongodb'), // MongoDB
 
     // 软件工程化
     '/build-tools/': require('./engineering/build-tools'), // 构建工具
