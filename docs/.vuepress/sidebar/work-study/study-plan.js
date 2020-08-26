@@ -13,9 +13,9 @@ module.exports = [
         collapsable: true,
         children: [],
     },
-    {
-        title: 'iOS',
-        collapsable: true,
-        children: [],
-    },
+    // {
+    //     title: 'iOS',
+    //     collapsable: true,
+    //     children: [],
+    // },
 ];

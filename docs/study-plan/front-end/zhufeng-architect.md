@@ -185,12 +185,12 @@ publish: true
 
 #### 优化篇
 
-- <input type="checkbox"></input> JSX原理和虚拟DOM原理
-- <input type="checkbox"></input> setState异步原理实现
-- <input type="checkbox"></input> React中的事务实现
-- <input type="checkbox"></input> 使用Immutable.js和PureComponent
-- <input type="checkbox"></input> ErrorBoundary、Suspense和Fragment
-- <input type="checkbox"></input> React中的高阶组件和render props
+- <input type="checkbox" checked></input> JSX原理和虚拟DOM原理
+- <input type="checkbox" checked></input> setState异步原理实现
+- <input type="checkbox" checked></input> React中的事务实现
+- <input type="checkbox" checked></input> 使用Immutable.js和PureComponent
+- <input type="checkbox" checked></input> ErrorBoundary、Suspense和Fragment
+- <input type="checkbox" checked></input> React中的高阶组件和render props
 - <input type="checkbox"></input> 实现React骨架屏webpack插件
 - <input type="checkbox"></input> React中的图片和组件懒加载
 - <input type="checkbox"></input> React中的长列表优化、只渲染可视区域DOM
