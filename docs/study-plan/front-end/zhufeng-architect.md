@@ -193,7 +193,7 @@ publish: true
 - <input type="checkbox" checked></input> React中的高阶组件和render props
 - <input type="checkbox"></input> 实现React骨架屏webpack插件
 - <input type="checkbox"></input> React中的图片和组件懒加载
-- <input type="checkbox"></input> React中的长列表优化、只渲染可视区域DOM
+- <input type="checkbox" checked></input> React中的长列表优化、只渲染可视区域DOM
 - <input type="checkbox"></input> Jest+Enzyme实现React单元测试
 
 #### 路由篇
