@@ -4,6 +4,7 @@ module.exports = [
         collapsable: true,
         children: [
             '/build-tools/webpack/basic-concept',
+            '/build-tools/webpack/config-demos',
         ],
     },
     {
