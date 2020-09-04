@@ -5,6 +5,7 @@ module.exports = [
         children: [
             '/build-tools/webpack/basic-concept',
             '/build-tools/webpack/config-demos',
+            '/build-tools/webpack/tapable',
         ],
     },
     {
