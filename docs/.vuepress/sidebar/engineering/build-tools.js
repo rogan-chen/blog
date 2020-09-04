@@ -2,7 +2,9 @@ module.exports = [
     {
         title: 'Webpack',
         collapsable: true,
-        children: [],
+        children: [
+            '/build-tools/webpack/basic-concept',
+        ],
     },
     {
         title: 'Vite',
