@@ -45,7 +45,11 @@ publish: true
 
 - <input type="checkbox"></input> 从0到1实现自己的组件库
 - <input type="checkbox"></input> 使用VuePress搭建组件库文档
-- <input type="checkbox"></input> 基于VueCli4编写组件测试，Karma、Mocha、Chai、Vue Test Utils
+- <input type="checkbox"></input> 基于VueCli4编写组件测试
+    * Karma
+    * Mocha
+    * Chai
+    * Vue Test Utils
 - <input type="checkbox"></input> 实现组件库的按需加载，组件库主题定制化
 - <input type="checkbox"></input> 从零封装树形组件
 - <input type="checkbox"></input> 从零封装日历组件
@@ -156,14 +160,34 @@ publish: true
 
 #### webpack工程化
 
-- <input type="checkbox"></input> webpack4实战 entry、out、loaders、plugins、文件指纹
-- <input type="checkbox"></input> webpack4优化（dll、resolve、模块热替换、压缩、代码分割、可视化工具）
+- <input type="checkbox"></input> webpack4实战
+    * entry
+    * out
+    * loaders
+    * plugins
+    * 文件指纹
+- <input type="checkbox"></input> webpack4优化
+    * dll
+    * resolve
+    * 模块热替换
+    * 压缩
+    * 代码分割
+    * 可视化工具
 - <input type="checkbox"></input> webpack4源码分析、懒加载原理、热更新原理
-- <input type="checkbox"></input> 编写自定义loader(style-loader、css-loader、less-loader等)
+- <input type="checkbox"></input> 编写自定义loader
+    * style-loader
+    * css-loader
+    * less-loader等
 - <input type="checkbox"></input> 编写自定义plugin(html-webpack-plugin)
 - <input type="checkbox"></input> 编写babel treeshaking插件
 - <input type="checkbox"></input> webpack的事件机制tapable和AST抽象语法树
-- <input type="checkbox"></input> 手写自己的Webpack4 包括make、seal、emit、 动态import、splitChunks、支持loader和 plugin
+- <input type="checkbox"></input> 手写自己的Webpack4
+    * make
+    * seal
+    * emit
+    * 动态import
+    * splitChunks
+    * 支持loader和 plugin
 
 ## React.js全家桶
 
@@ -213,8 +237,17 @@ publish: true
 #### Redux篇
 
 - <input type="checkbox"></input> Redux核心用法 Action/Reducer/Store
-- <input type="checkbox"></input> 手写实现Redux、react-redux、connected-react-router
-- <input type="checkbox"></input> 手写Redux、react-redux、redux-logger、redux-promise、redux-thunk、redux-saga、redux-actions、reselect、redux-persist等经典redux中间件类库
+- <input type="checkbox"></input> 手写实现Redux
+- <input type="checkbox"></input> 手写实现Redux中间件类库
+    * react-redux
+    * redux-logger
+    * redux-promise
+    * redux-thunk
+    * redux-saga
+    * redux-actions
+    * reselect
+    * redux-persist
+    * connected-react-router
 
 #### 手写React服务器端渲染SSR
 
@@ -236,7 +269,12 @@ publish: true
 
 #### mobx篇
 
-- <input type="checkbox"></input> mobx实战：observable、computed、autorun、when、reaction
+- <input type="checkbox"></input> mobx实战
+    * observable
+    * computed
+    * autorun
+    * when
+    * reaction
 - <input type="checkbox"></input> 手写一个mobx类库
 
 #### 从零封装自己的Raect组件库
@@ -261,7 +299,14 @@ publish: true
 - <input type="checkbox"></input> umi配置静态和动态路由、权限和动画、UMI实现原理，手写实现UMI
 - <input type="checkbox"></input> dva创建应用、集成AntDesign、定义路由和UI组件、链接仓库、使用effects和reducers
 - <input type="checkbox"></input> 手写实现dva和核心库redux-saga
-- <input type="checkbox"></input> 使用Button、Modal、Loading、Notification、Message、List、Carousel等AntDesign组件
+- <input type="checkbox"></input> 使用AntDesign组件
+    * Button
+    * Modal
+    * Loading
+    * Notification
+    * Message
+    * List
+    * Carousel等
 
 ## 专题课
 
@@ -419,7 +464,10 @@ publish: true
 - <input type="checkbox"></input> 运行环境
 - <input type="checkbox"></input> 单元测试
 - <input type="checkbox"></input> 服务器部署和运维
-- <input type="checkbox"></input> 手写自己的Egg.js框架，包括：egg-core、egg-init、egg-luster
+- <input type="checkbox"></input> 手写自己的Egg.js框架
+    * egg-core
+    * egg-init
+    * egg-luster
 - <input type="checkbox"></input> 自定义插件和框架，手写egg-socket.io插件
 
 #### 网络安全
@@ -471,7 +519,13 @@ publish: true
 - <input type="checkbox"></input> Linux安装和虚拟机的使用
 - <input type="checkbox"></input> 桥接、NAT、Host-Only等网络连接
 - <input type="checkbox"></input> 快照、克隆、挂载点和分区
-- <input type="checkbox"></input> Linux常用命令、VI编辑器、用户与权限管理、服务管理、软件管理、网络管理、系统命令
+- <input type="checkbox"></input> Linux常用命令
+    * VI编辑器
+    * 用户与权限管理
+    * 服务管理
+    * 软件管理
+    * 网络管理
+    * 系统命令
 - <input type="checkbox"></input> shell实战监控服务和主机网络状态
 
 #### Nginx
