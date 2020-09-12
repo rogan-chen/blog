@@ -1,5 +1,12 @@
 module.exports = [
     {
+        title: 'JS基础',
+        collapsable: true,
+        children: [
+            '/javascript/basics/'
+        ],
+    },
+    {
         title: 'DOM && BOM',
         collapsable: true,
         children: [],
