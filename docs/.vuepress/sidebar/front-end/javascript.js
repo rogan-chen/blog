@@ -5,6 +5,7 @@ module.exports = [
         children: [
             '/javascript/basics/data-type',
             '/javascript/basics/heap-stack',
+            '/javascript/basics/so-hard',
         ],
     },
     {

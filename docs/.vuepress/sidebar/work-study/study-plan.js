@@ -8,11 +8,11 @@ module.exports = [
             '/study-plan/front-end/zhufeng-open',
         ],
     },
-    {
-        title: 'Java',
-        collapsable: true,
-        children: [],
-    },
+    // {
+    //     title: 'Java',
+    //     collapsable: true,
+    //     children: [],
+    // },
     // {
     //     title: 'iOS',
     //     collapsable: true,

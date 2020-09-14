@@ -13,7 +13,7 @@ publish: true
 
 #### JS第一座大山：堆栈内存和闭包作用域
 
-- <input type="checkbox"></input> 9中数据类型区别及相互转化
+- <input type="checkbox"></input> 9种数据类型区别及相互转化
 - <input type="checkbox"></input> 词法解析和变量提升
 - <input type="checkbox"></input> 堆（Heap）栈（Stack）内存及垃圾回收机制
 - <input type="checkbox"></input> JS底层运行机制：EC/AO/VO/GO
@@ -154,17 +154,17 @@ publish: true
 
 #### 第一部分：Webpack工程化开发与部署
 
-- <input type="checkbox"></input> webpack核心基础知识
-- <input type="checkbox"></input> 单（多）入口项目打包
-- <input type="checkbox"></input> webpack devServer和Proxy代理
-- <input type="checkbox"></input> loaders及plugins的处理
-- <input type="checkbox"></input> CSS样式的抽离、压缩、兼容性处理
-- <input type="checkbox"></input> less/sass等编译语言的处理
-- <input type="checkbox"></input> 基于babel转换ES6/ES7语法及Polyfill兼容处理
-- <input type="checkbox"></input> resolve/sourceMap
-- <input type="checkbox"></input> webpack性能优化（TreeShaking、CDN加载热更新、图片压缩等）
-- <input type="checkbox"></input> vue-cli3.0脚手架的应用/配置和性能优化
-- <input type="checkbox"></input> vite/snowpack基础语法和实战应用
+- <input type="checkbox"></input> ~~webpack核心基础知识~~
+- <input type="checkbox"></input> ~~单（多）入口项目打包~~
+- <input type="checkbox"></input> ~~webpack devServer和Proxy代理~~
+- <input type="checkbox"></input> ~~loaders及plugins的处理~~
+- <input type="checkbox"></input> ~~CSS样式的抽离、压缩、兼容性处理~~
+- <input type="checkbox"></input> ~~less/sass等编译语言的处理~~
+- <input type="checkbox"></input> ~~基于babel转换ES6/ES7语法及Polyfill兼容处理~~
+- <input type="checkbox"></input> ~~resolve/sourceMap~~
+- <input type="checkbox"></input> ~~webpack性能优化（TreeShaking、CDN加载热更新、图片压缩等）~~
+- <input type="checkbox"></input> ~~vue-cli3.0脚手架的应用/配置和性能优化~~
+- <input type="checkbox"></input> ~~vite/snowpack基础语法和实战应用~~
 
 #### 第二部分：Vue2.0的基础知识与核心原理
 
@@ -293,24 +293,24 @@ publish: true
 
 #### 进阶专题3：Git团队协作开发
 
-- <input type="checkbox"></input> Git的简介和安装
-- <input type="checkbox"></input> 集中式（SVN）和分布式（Git）的对比
-- <input type="checkbox"></input> 工作区、暂存区、历史区、远程仓库
-- <input type="checkbox"></input> 历史回滚和差异对比
-- <input type="checkbox"></input> 和远程仓库的信息同步
-- <input type="checkbox"></input> Git分支处理
-- <input type="checkbox"></input> 分支合并和冲突处理
-- <input type="checkbox"></input> 玩转GitHub和构建个人博客
+- <input type="checkbox"></input> ~~Git的简介和安装~~
+- <input type="checkbox"></input> ~~集中式（SVN）和分布式（Git）的对比~~
+- <input type="checkbox"></input> ~~工作区、暂存区、历史区、远程仓库~~
+- <input type="checkbox"></input> ~~历史回滚和差异对比~~
+- <input type="checkbox"></input> ~~和远程仓库的信息同步~~
+- <input type="checkbox"></input> ~~Git分支处理~~
+- <input type="checkbox"></input> ~~分支合并和冲突处理~~
+- <input type="checkbox"></input> ~~玩转GitHub和构建个人博客~~
 
 #### 进阶专题4：TypeScript及Flutter
 
-- <input type="checkbox"></input> TypeScript的安装和编译
-- <input type="checkbox"></input> 数据类型/函数/类
-- <input type="checkbox"></input> 接口/泛型/类型转换模块 vs 命名空间
-- <input type="checkbox"></input> TypeScript的工程化处理
-- <input type="checkbox"></input> Flutter常用组件和布局
-- <input type="checkbox"></input> Flutter导航和动画处理
-- <input type="checkbox"></input> Flutter版珠峰课堂项目实战
+- <input type="checkbox"></input> ~~TypeScript的安装和编译~~
+- <input type="checkbox"></input> ~~数据类型/函数/类~~
+- <input type="checkbox"></input> ~~接口/泛型/类型转换模块 vs 命名空间~~
+- <input type="checkbox"></input> ~~TypeScript的工程化处理~~
+- <input type="checkbox"></input> ~~Flutter常用组件和布局~~
+- <input type="checkbox"></input> ~~Flutter导航和动画处理~~
+- <input type="checkbox"></input> ~~Flutter版珠峰课堂项目实战~~
 
 #### 附赠：就业指导和职业规划
 
