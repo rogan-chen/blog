@@ -1,5 +1,5 @@
 ---
-title: JavaScript中的数据类型
+title: JS的数据类型
 date: 2020-09-12
 sidebar: 'auto'
 categories:
@@ -158,13 +158,36 @@ typeof !parseInt(null) + !isNaN(null)
 // typeof !parseInt('null') + !isNaN(Number(null)) => typeof !NaN + !isNaN(0) => typeof true + !false => 'boolean' + true => 'booleantrue'
 ```
 
-## 4. 等号和（=）加号（+）
+## 4. 等号和（=）加号（+）和取反（!）
 
-等号对比：
+#### 4.1 等号对比：
 - 对象==字符串，对象转换成字符串
-- null==undefined，但是和其他值都不相等
+- null==undefined，结果为true，但是和其他值都不相等，比如 0==null 结果为false
 - 剩下两边不同都是转换成数字对比
+- 两个等号（==）在进行比较的时候，如果两边数据类型不一致，则需要先默认转换为一致的数据类型
+- 三个等号（===）绝对相等，两边类型一致时，值也一致才相等，类型不一样，直接不相等，不会转换（开发过程中推荐使用这种方式）
 
-加号的作用：
+#### 4.2 加号的作用：
 - 数学运算
 - 字符串拼接
+- 在左右两边出现字符串（或者对象）的情况下，加号一定是字符串拼接。对象本身是要转换成数字进行运算的，只不过转换数字的过程中，需要先转换成字符串才能转换成数字，而一旦转换成字符串，就变成了字符串拼接
+
+```JavaScript
+let str = 100 + true + 21.2 + null + undefined + 'Tencent' + [] + null + 9 + false;
+/**
+ * let str = 101 + 21.2 + null + undefined + 'Tencent' + [] + null + 9 + false;
+ *     str = 122.2 + null + undefined + 'Tencent' + [] + null + 9 + false;
+ *     str = 122.2 + undefined + 'Tencent' + [] + null + 9 + false;
+ *     str = NaN + 'Tencent' + [] + null + 9 + false;
+ *     str = 'NaNTencent' + [] + null + 9 + false;
+ *     str = 'NaNTencent' + null + 9 + false;
+ *     str = 'NaNTencentnull' + 9 + false;
+ *     str = 'NaNTencentnull9' + false;
+ *     str = 'NaNTencentnull9false';
+ */
+
+console.log(str) // result => 'NaNTencentnull9false'
+```
+
+#### 4.3 取反：
+- 把其他类型转换成布尔类型遵循的规律，只有 0/null/undefined/'' 五个值是false，其他的是true

@@ -3,7 +3,8 @@ module.exports = [
         title: 'JS基础',
         collapsable: true,
         children: [
-            '/javascript/basics/'
+            '/javascript/basics/data-type',
+            '/javascript/basics/heap-stack',
         ],
     },
     {
