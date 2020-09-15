@@ -32,4 +32,5 @@ module.exports = {
     // 工作学习
     '/read-notes/': require('./work-study/read-notes'), // 阅读
     '/study-plan/': require('./work-study/study-plan'), // 学习计划
+    '/yearly-plan/': require('./work-study/yearly-plan'), // 年度计划
 };

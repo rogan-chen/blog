@@ -3,5 +3,6 @@ module.exports = {
         { text: '阅读', link: '/read-notes/' },
         { text: '学习计划', link: '/study-plan/' },
         { text: '程序员生涯', link: '/' },
+        { text: '年度计划', link: '/yearly-plan/' },
     ]
 };
