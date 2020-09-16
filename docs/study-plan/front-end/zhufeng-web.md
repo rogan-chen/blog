@@ -168,46 +168,46 @@ publish: true
 
 #### 第二部分：Vue2.0的基础知识与核心原理
 
-- <input type="checkbox"></input> mvvm双向数据绑定实现原理
-- <input type="checkbox"></input> dom-diff及其实现原理
-- <input type="checkbox"></input> v-model及其实现原理
-- <input type="checkbox"></input> template模板语法和render
-- <input type="checkbox"></input> JSX语法受控组件（data）和非受控组件（ref）属性及属性的校验规则
-- <input type="checkbox"></input> 常用的指令和Vue.directive自定义指令
-- <input type="checkbox"></input> watch与computed的深度对比和实现机制
-- <input type="checkbox"></input> 事件处理及修饰符
-- <input type="checkbox"></input> 表单元素和条件及循环渲染
-- <input type="checkbox"></input> vue transition动画和路由切换动效生命周期（钩子）函数及实战应用
-- <input type="checkbox"></input> Component组件化开发及slot插槽
-- <input type="checkbox"></input> 实战案例：淘宝商城购物车信息管理
+- <input type="checkbox"></input> ~~mvvm双向数据绑定实现原理~~
+- <input type="checkbox"></input> ~~dom-diff及其实现原理~~
+- <input type="checkbox"></input> ~~v-model及其实现原理~~
+- <input type="checkbox"></input> ~~template模板语法和render~~
+- <input type="checkbox"></input> ~~JSX语法受控组件（data）和非受控组件（ref）属性及属性的校验规则~~
+- <input type="checkbox"></input> ~~常用的指令和Vue.directive自定义指令~~
+- <input type="checkbox"></input> ~~watch与computed的深度对比和实现机制~~
+- <input type="checkbox"></input> ~~事件处理及修饰符~~
+- <input type="checkbox"></input> ~~表单元素和条件及循环渲染~~
+- <input type="checkbox"></input> ~~vue transition动画和路由切换动效生命周期（钩子）函数及实战应用~~
+- <input type="checkbox"></input> ~~Component组件化开发及slot插槽~~
+- <input type="checkbox"></input> ~~实战案例：淘宝商城购物车信息管理~~
 
 #### 第三部分：Vue生态及进阶（Vuex/Vue-router）
 
-- <input type="checkbox"></input> 复合组件信息通信的6大方案
-- <input type="checkbox"></input> $on/$emit自定义事件
-- <input type="checkbox"></input> Vuex基础：state/getter/mutation/action
-- <input type="checkbox"></input> Vuex的模块化管理和mapXXX遍历
-- <input type="checkbox"></input> mixin的混入和Vue.use插件开发
-- <input type="checkbox"></input> SPA（单页应用）和MPA（多页应用）对比
-- <input type="checkbox"></input> HASH路由和BROWSER路由对比
-- <input type="checkbox"></input> 编程式导航和动态路由
-- <input type="checkbox"></input> 路由导航守卫及权限校验
-- <input type="checkbox"></input> keep-alive组件静态/动态缓存
-- <input type="checkbox"></input> Vue-router核心源码解读
-- <input type="checkbox"></input> 实战案例：TASK OA任何管理系统
+- <input type="checkbox"></input> ~~复合组件信息通信的6大方案~~
+- <input type="checkbox"></input> ~~$on/$emit自定义事件~~
+- <input type="checkbox"></input> ~~Vuex基础：state/getter/mutation/action~~
+- <input type="checkbox"></input> ~~Vuex的模块化管理和mapXXX遍历~~
+- <input type="checkbox"></input> ~~mixin的混入和Vue.use插件开发~~
+- <input type="checkbox"></input> ~~SPA（单页应用）和MPA（多页应用）对比~~
+- <input type="checkbox"></input> ~~HASH路由和BROWSER路由对比~~
+- <input type="checkbox"></input> ~~编程式导航和动态路由~~
+- <input type="checkbox"></input> ~~路由导航守卫及权限校验~~
+- <input type="checkbox"></input> ~~keep-alive组件静态/动态缓存~~
+- <input type="checkbox"></input> ~~Vue-router核心源码解读~~
+- <input type="checkbox"></input> ~~实战案例：TASK OA任何管理系统~~
 
 #### 第四部分：Vue综合实战和性能优化
 
-- <input type="checkbox"></input> element-ui/cube-ui/vant实战应用和二次封装
-- <input type="checkbox"></input> 从零开始封装专业级UI组件
-- <input type="checkbox"></input> Vue-DevTools调试工具和单元测试
-- <input type="checkbox"></input> 长列表和无限列表性能优化方案
-- <input type="checkbox"></input> 基于babel-plugin-component实现组件按需导入
-- <input type="checkbox"></input> 图片/路由/数据等资源的懒加载
-- <input type="checkbox"></input> loading/骨架屏等优化技巧的实战应用
-- <input type="checkbox"></input> webpack编译打包层面的优化处理
-- <input type="checkbox"></input> CSRF/XSS等方面的网络安全优化处理
-- <input type="checkbox"></input> 综合实战案例
+- <input type="checkbox"></input> ~~element-ui/cube-ui/vant实战应用和二次封装~~
+- <input type="checkbox"></input> ~~从零开始封装专业级UI组件~~
+- <input type="checkbox"></input> ~~Vue-DevTools调试工具和单元测试~~
+- <input type="checkbox"></input> ~~长列表和无限列表性能优化方案~~
+- <input type="checkbox"></input> ~~基于babel-plugin-component实现组件按需导入~~
+- <input type="checkbox"></input> ~~图片/路由/数据等资源的懒加载~~
+- <input type="checkbox"></input> ~~loading/骨架屏等优化技巧的实战应用~~
+- <input type="checkbox"></input> ~~webpack编译打包层面的优化处理~~
+- <input type="checkbox"></input> ~~CSRF/XSS等方面的网络安全优化处理~~
+- <input type="checkbox"></input> ~~综合实战案例
     - 基于Vue + Vue-Router打造今日头条客户端
     - 基于Vue + VantUI/CubeUI开发知乎日报APP
     - 基于Vue + Vuex开发QQ音乐播放器
@@ -217,79 +217,79 @@ publish: true
 
 #### 第五部分：Vue3.0基础知识与实战应用
 
-- <input type="checkbox"></input> 全方位深度对比Vue2和Vue3的区别
-- <input type="checkbox"></input> Vue3新特性全面剖析
-- <input type="checkbox"></input> 基于vite/webpack实现vue3工程化部署
-- <input type="checkbox"></input> 掌握setup和10种响应式系统API
-- <input type="checkbox"></input> Vue3中的响应式系统和dom-diff
-- <input type="checkbox"></input> 基于Vue3实现知乎日报APP开发
-- <input type="checkbox"></input> 这部分内容会伴随着Vue3及其生态的更新而不断更新
+- <input type="checkbox"></input> ~~全方位深度对比Vue2和Vue3的区别~~
+- <input type="checkbox"></input> ~~Vue3新特性全面剖析~~
+- <input type="checkbox"></input> ~~基于vite/webpack实现vue3工程化部署~~
+- <input type="checkbox"></input> ~~掌握setup和10种响应式系统API~~
+- <input type="checkbox"></input> ~~Vue3中的响应式系统和dom-diff~~
+- <input type="checkbox"></input> ~~基于Vue3实现知乎日报APP开发~~
+- <input type="checkbox"></input> ~~这部分内容会伴随着Vue3及其生态的更新而不断更新~~
 
 #### 第六部分：React基础知识与核心原理
 
-- <input type="checkbox"></input> create-react-app 脚手架的应用和优化
-- <input type="checkbox"></input> JSX的基础知识和实战应用
-- <input type="checkbox"></input> 虚拟DOM到真实DOM的渲染原理
-- <input type="checkbox"></input> react中的dom-diff实现原理
-- <input type="checkbox"></input> 属性和状态的管理（深入剖析setState的同步异步）
-- <input type="checkbox"></input> 受控和非受控组件
-- <input type="checkbox"></input> React合成事件和双向数据绑定
-- <input type="checkbox"></input> 函数式组件及React Hooks
-- <input type="checkbox"></input> 类组件及其生命周期函数（Component vs PureComponent）
-- <input type="checkbox"></input> 复合组件和组件嵌套
-- <input type="checkbox"></input> 基于属性实现父子组件信息通信
-- <input type="checkbox"></input> 基于上下文（React.createContext）实现组价信息通信
+- <input type="checkbox"></input> ~~create-react-app 脚手架的应用和优化~~
+- <input type="checkbox"></input> ~~JSX的基础知识和实战应用~~
+- <input type="checkbox"></input> ~~虚拟DOM到真实DOM的渲染原理~~
+- <input type="checkbox"></input> ~~react中的dom-diff实现原理~~
+- <input type="checkbox"></input> ~~属性和状态的管理（深入剖析setState的同步异步）~~
+- <input type="checkbox"></input> ~~受控和非受控组件~~
+- <input type="checkbox"></input> ~~React合成事件和双向数据绑定~~
+- <input type="checkbox"></input> ~~函数式组件及React Hooks~~
+- <input type="checkbox"></input> ~~类组件及其生命周期函数（Component vs PureComponent）~~
+- <input type="checkbox"></input> ~~复合组件和组件嵌套~~
+- <input type="checkbox"></input> ~~基于属性实现父子组件信息通信~~
+- <input type="checkbox"></input> ~~基于上下文（React.createContext）实现组价信息通信~~
 
 #### 第七部分：React生态及进阶redux/react-router-dom
 
-- <input type="checkbox"></input> redux的操作流程和实战应用
-- <input type="checkbox"></input> react-redux的实现应用和中间件处理
-- <input type="checkbox"></input> 高阶组件（代理组件）及其实现原理
-- <input type="checkbox"></input> redux/react-redux/中间件源码解读
-- <input type="checkbox"></input> Dva和UmiJS及其实战应用
-- <input type="checkbox"></input> react-router-dom的基础常规操作
-- <input type="checkbox"></input> withRouter高阶函数
-- <input type="checkbox"></input> 编程式导航和动态路由
-- <input type="checkbox"></input> 实战案例：TASK OA任务管理系统
+- <input type="checkbox"></input> ~~redux的操作流程和实战应用~~
+- <input type="checkbox"></input> ~~react-redux的实现应用和中间件处理~~
+- <input type="checkbox"></input> ~~高阶组件（代理组件）及其实现原理~~
+- <input type="checkbox"></input> ~~redux/react-redux/中间件源码解读~~
+- <input type="checkbox"></input> ~~Dva和UmiJS及其实战应用~~
+- <input type="checkbox"></input> ~~react-router-dom的基础常规操作~~
+- <input type="checkbox"></input> ~~withRouter高阶函数~~
+- <input type="checkbox"></input> ~~编程式导航和动态路由~~
+- <input type="checkbox"></input> ~~实战案例：TASK OA任务管理系统~~
 
 #### 第八部分：React综合实战和性能优化
 
-- <input type="checkbox"></input> 从零开始封装专业级的UI组件
-- <input type="checkbox"></input> Ant Design UI库的应用和二次封装
-- <input type="checkbox"></input> axios/fetch二次配置和API接口模块化管理
-- <input type="checkbox"></input> 第三方登录和支付功能
-- <input type="checkbox"></input> Code Splitting代理懒加载
-- <input type="checkbox"></input> shouldComponentUpdate与PureComponent
-- <input type="checkbox"></input> 列表类组件优化处理技巧
-- <input type="checkbox"></input> 基于Immutable.js进行性能优化
-- <input type="checkbox"></input> react-addons-perf性能监控
-- <input type="checkbox"></input> 大型实战案例：小米有品电商APP
+- <input type="checkbox"></input> ~~从零开始封装专业级的UI组件~~
+- <input type="checkbox"></input> ~~Ant Design UI库的应用和二次封装~~
+- <input type="checkbox"></input> ~~axios/fetch二次配置和API接口模块化管理~~
+- <input type="checkbox"></input> ~~第三方登录和支付功能~~
+- <input type="checkbox"></input> ~~Code Splitting代理懒加载~~
+- <input type="checkbox"></input> ~~shouldComponentUpdate与PureComponent~~
+- <input type="checkbox"></input> ~~列表类组件优化处理技巧~~
+- <input type="checkbox"></input> ~~基于Immutable.js进行性能优化~~
+- <input type="checkbox"></input> ~~react-addons-perf性能监控~~
+- <input type="checkbox"></input> ~~大型实战案例：小米有品电商APP~~
 
 #### 进阶专题1：微信小程序开发
 
-- <input type="checkbox"></input> 小程序注册和IDE
-- <input type="checkbox"></input> rpx适配、模板使用、图片处理等
-- <input type="checkbox"></input> 小程序中核心组件/API的应用
-- <input type="checkbox"></input> 导航及列表渲染（包含无限渲染）
-- <input type="checkbox"></input> HTTP-PROMISE和服务器的交互处理
-- <input type="checkbox"></input> 获取用户信息和地理信息
-- <input type="checkbox"></input> 小程序中的支付处理
-- <input type="checkbox"></input> mpvue框架的实战应用
-- <input type="checkbox"></input> uni-app框架的实现应用
-- <input type="checkbox"></input> 大型实战案例：美团商城小程序开发
+- <input type="checkbox"></input> ~~小程序注册和IDE~~
+- <input type="checkbox"></input> ~~rpx适配、模板使用、图片处理等~~
+- <input type="checkbox"></input> ~~小程序中核心组件/API的应用~~
+- <input type="checkbox"></input> ~~导航及列表渲染（包含无限渲染）~~
+- <input type="checkbox"></input> ~~HTTP-PROMISE和服务器的交互处理~~
+- <input type="checkbox"></input> ~~获取用户信息和地理信息~~
+- <input type="checkbox"></input> ~~小程序中的支付处理~~
+- <input type="checkbox"></input> ~~mpvue框架的实战应用~~
+- <input type="checkbox"></input> ~~uni-app框架的实现应用~~
+- <input type="checkbox"></input> ~~大型实战案例：美团商城小程序开发~~
 
 #### 进阶专题2：全面贯穿node.js/express全栈开发
 
-- <input type="checkbox"></input> node的安装和npm包管理器
-- <input type="checkbox"></input> fs内置模块和PromiseFS封装
-- <input type="checkbox"></input> HTTP内置模块和搭建web服务器
-- <input type="checkbox"></input> 搭建数据服务器和实现RestFul API规范的接口
-- <input type="checkbox"></input> Express框架基础知识
-- <input type="checkbox"></input> Express中路由和中间件的实战应用
-- <input type="checkbox"></input> Koa2框架基础知识
-- <input type="checkbox"></input> 数据Mock和MongoDB数据库管理
-- <input type="checkbox"></input> 实战案例：小品有品电子商城APP的Node后台开发
-- <input type="checkbox"></input> 实战案例：企业级OA办公管理系统的Ndoe后台开发
+- <input type="checkbox"></input> ~~node的安装和npm包管理器~~
+- <input type="checkbox"></input> ~~fs内置模块和PromiseFS封装~~
+- <input type="checkbox"></input> ~~HTTP内置模块和搭建web服务器~~
+- <input type="checkbox"></input> ~~搭建数据服务器和实现RestFul API规范的接口~~
+- <input type="checkbox"></input> ~~Express框架基础知识~~
+- <input type="checkbox"></input> ~~Express中路由和中间件的实战应用~~
+- <input type="checkbox"></input> ~~Koa2框架基础知识~~
+- <input type="checkbox"></input> ~~数据Mock和MongoDB数据库管理~~
+- <input type="checkbox"></input> ~~实战案例：小品有品电子商城APP的Node后台开发~~
+- <input type="checkbox"></input> ~~实战案例：企业级OA办公管理系统的Ndoe后台开发~~
 
 #### 进阶专题3：Git团队协作开发
 
