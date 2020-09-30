@@ -207,7 +207,7 @@ publish: true
 - <input type="checkbox"></input> ~~loading/骨架屏等优化技巧的实战应用~~
 - <input type="checkbox"></input> ~~webpack编译打包层面的优化处理~~
 - <input type="checkbox"></input> ~~CSRF/XSS等方面的网络安全优化处理~~
-- <input type="checkbox"></input> ~~综合实战案例
+- <input type="checkbox"></input> ~~综合实战案例~~
     - 基于Vue + Vue-Router打造今日头条客户端
     - 基于Vue + VantUI/CubeUI开发知乎日报APP
     - 基于Vue + Vuex开发QQ音乐播放器
